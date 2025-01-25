@@ -7,14 +7,6 @@
 * In this project, we are going to build a Python Flight Fare Prediction App, that returns the fare prediction for a given set of travel details, like:  departure date, arrival date, departure city, arrival city, stoppages, and the airline carrier.
 
 
-
-## Steps to run Flight Fare App - on Windows
-
-* Prerequisites: [Python 3.9](https://www.python.org/downloads/) (ensure Python is added to [PATH](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013)) + [Git](https://git-scm.com/downloads) Client 
-* Open GIT CMD >> navigate to working directory >> Clone this Github Repo (or download project files from GitHub directly)
-
-      git clone https://github.com/skillcate/flight-price-prediction.git  
-* Open Windows Powershell >> navigate to new working directory (cloned repo folder)
 * Run Project in Flask (Using PIP + Virtualenv)
  
         pip install virtualenv                  # install virtual environment        
